@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **jpsiegel8@gmail.com**
 
-- 📄 My CV [https://john-siegel.com/Resume.pdf](https://john-siegel.com/Resume.pdf)
+- 📄 My [CV](https://john-siegel.com/Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
