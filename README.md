@@ -9,7 +9,7 @@
 
 - :information_desk_person: Here is a website I developed for [The Google Developers Student Club at Virginia Tech](https://gdscvt.com)
 
-- 👨‍💻 Here is my personal website [https://john-siegel.com](https://john-siegel.com)
+- 👨‍💻 Here is my [personal website](https://john-siegel.com)
 
 - 📫 How to reach me **jpsiegel8@gmail.com**
 
