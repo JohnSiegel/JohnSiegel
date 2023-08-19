@@ -5,23 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=johnsiegel" alt="johnsiegel" /></a> </p>
 
-- 🔭 I’m currently working with [Stellar Science](https://stellarscience.com/)
-
-- 🌱 I’m currently learning **PyTorch, Unreal Engine 5, and Kubernetes**
+- 🔭 I’m currently working at [Stellar Science](https://stellarscience.com/)
 
 - 👯 Here is some of my work with [The Google Developers Student Club at Virginia Tech](https://gdscvt.com)
 
-- 🤝 I’m looking for help with [PhitNest](https://phitnest.com)
-
 - 👨‍💻 More about me at [https://john-siegel.com](https://john-siegel.com)
-
-- 💬 Ask me about **Flutter, Node.js, or React**
 
 - 📫 How to reach me **jpsiegel8@gmail.com**
 
 - 📄 My CV [https://john-siegel.com/Resume.pdf](https://john-siegel.com/Resume.pdf)
-
-- ⚡ Fun fact **I love animals!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
