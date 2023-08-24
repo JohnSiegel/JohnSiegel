@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm John Siegel</h1>
-<h3 align="center">A software developer with a passion for Machine Learning, Graphics, and Web Development!</h3>
+<h3 align="center">A software developer with a passion for high-quality code</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johnsiegel&label=Profile%20views&color=0e75b6&style=flat" alt="johnsiegel" /> </p>
 
