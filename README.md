@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=johnsiegel" alt="johnsiegel" /></a> </p>
 
-- 🔭 I’m currently working at [Stellar Science](https://stellarscience.com/)
+- 🔭 I’m currently working at [MABLE Software](https://mablesoftware.com/)
 
 - :information_desk_person: Here is a website I developed for [The Google Developers Student Club at Virginia Tech](https://gdscvt.com)
 
